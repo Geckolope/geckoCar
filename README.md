@@ -8,13 +8,8 @@
 
 ---
 
-## ✨ Sobre mí
-
-Hola bro, soy **Geckolope** 🦎  
-Hice esta página pa divertirme y todo eso, ts un proyecto personal donde pienso subir un montón de juegos súper buenos.  
-Estoy metiéndole ganas aunque a veces falte el ánimo 🪫🥲  
-Si estás viendo esto, geckolope ya no esta con nosotros
-
+## ✨ sobre esta pagina
+bro aveces uno en el colegio se aburre y pues uno quiere pasar el tiempo y ahi es donde viene geckocar donde uno puede jugar un monton de juegos desbloqueados q son incredibles
 ---
 
 ## 🔧 En desarrollo...
